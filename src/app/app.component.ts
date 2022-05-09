@@ -10,20 +10,24 @@ export class AppComponent {
 
   images = [
     {
-      title: 'At the beach',
-      url: 'https://i.picsum.photos/id/1001/5616/3744.jpg?hmac=38lkvX7tHXmlNbI0HzZbtkJ6_wpWyqvkX4Ty6vYElZE'
+      title: 'At the Beach',
+      url: 'https://i.picsum.photos/id/1001/640/480.jpg?hmac=lV5xFJeR4uL47-V2ZcYC8y0utFfvhOQp5lOr4vzdLZA'
     },
     {
-      title: 'The forest',
-      url: 'https://i.picsum.photos/id/1023/3955/2094.jpg?hmac=AW_7mARdoPWuI7sr6SG8t-2fScyyewuNscwMWtQRawU'
+      title: 'The Forest',
+      url: 'https://i.picsum.photos/id/1023/640/480.jpg?hmac=-tjGX1ptCnsU-sNkFw0ey3Jl6FEl0sPILb7zn--sG54'
     },
     {
-      title: 'Dried land',
-      url: 'https://i.picsum.photos/id/1028/5184/3456.jpg?hmac=WhttNfn25eTgLTNnhRujSq4IVjx2mMa6wvPG1c6qMVc'
+      title: 'Dried Land',
+      url: 'https://i.picsum.photos/id/1028/640/480.jpg?hmac=5sypo2ZTqdiqAi5pWxOTX0J-JJG05XczD6zvjhpaKtQ'
     },
     {
       title: 'Town Park',
-      url: 'https://i.picsum.photos/id/1029/4887/2759.jpg?hmac=uMSExsgG8_PWwP9he9Y0LQ4bFDLlij7voa9lU9KMXDE'
+      url: 'https://i.picsum.photos/id/1029/640/480.jpg?hmac=ABjmuVJ58Rjbr3nWRsSY0vRJ6xQRt9HAb96asFKCO7Q'
+    },
+    {
+      title: 'On the Rock\'s Edge',
+      url: 'https://i.picsum.photos/id/1006/640/480.jpg?hmac=2Mb7OFpuTtCs4GrwVf7wu3BQYjNEpeGlhViQzNLTua4'
     },
   ]
 
