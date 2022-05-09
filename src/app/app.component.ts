@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  currentPage = 0;
+  currentPage = 2;
 
   images = [
     {
@@ -26,4 +26,5 @@ export class AppComponent {
       url: 'https://i.picsum.photos/id/1029/4887/2759.jpg?hmac=uMSExsgG8_PWwP9he9Y0LQ4bFDLlij7voa9lU9KMXDE'
     },
   ]
+
 }
